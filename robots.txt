@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://loriknmbvcxzushku.github.io/loriknmbvcxzushku_github_io_zp530_12.txt
+Sitemap: https://loriknmbvcxzushku.github.io/loriknmbvcxzushku_github_io_zp530_17.txt
+Sitemap: https://loriknmbvcxzushku.github.io/loriknmbvcxzushku_github_io_zp530_21.txt
+Sitemap: https://loriknmbvcxzushku.github.io/loriknmbvcxzushku_github_io_zp530_3.txt
+Sitemap: https://loriknmbvcxzushku.github.io/loriknmbvcxzushku_github_io_zp530_8.txt
